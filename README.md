@@ -13,6 +13,7 @@
 | `pdf` | PDF 读取、提取、合并、拆分、OCR、表单处理等 | `.claude` / `.codex` |
 | `planning-with-files` | 文件驱动的任务规划流程（如 `task_plan.md`、`progress.md`） | `.claude` / `.codex` |
 | `pptx` | PPT/演示文稿的创建、读取、编辑、拆分合并、模板处理等 | `.claude` / `.codex` |
+| `seo-audit` | 网站 SEO 审计与诊断（技术 SEO、页面优化、内容质量与优先级整改建议） | `.claude` / `.codex` |
 | `skill-creator` | 创建或更新 skill 的方法论与规范指南 | `.claude` / `.codex` |
 | `ui-ux-pro-max` | UI/UX 设计知识库与规则集（风格、配色、字体、可访问性等） | `.codex` |
 | `xlsx` | Excel/表格文件处理（`.xlsx`/`.xlsm`/`.csv`/`.tsv`）与格式规范 | `.claude` / `.codex` |
@@ -24,6 +25,6 @@
 
 ## 统计
 
-- 去重后技能数：`8`
-- 两端共有（同名）技能数：`7`
+- 去重后技能数：`9`
+- 两端共有（同名）技能数：`8`
 - 仅 `.codex` 独有：`ui-ux-pro-max`

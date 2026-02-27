@@ -69,3 +69,7 @@ temp/
 ~$*.docx
 ~$*.xlsx
 ~$*.pptx
+
+# dzh
+
+.agents/
